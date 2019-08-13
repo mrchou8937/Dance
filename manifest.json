@@ -1,0 +1,19 @@
+{
+  "name":"舞蹈表演",
+  "short_name":"舞蹈表演",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#3EEEA4",
+  "icons":[
+      {
+        "src":"./img/Rainbow Flower.png",
+        "sizes":"512x512",
+        "type":"image/png"
+      },
+      {
+        "src":"./img/Rainbow Flower.png",
+        "sizes":"192x192",
+        "type":"image/png"
+      }
+  ]
+}
